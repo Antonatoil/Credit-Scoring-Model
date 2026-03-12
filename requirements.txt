@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+pg8000
+python-dotenv
+pandas
+numpy
+scikit-learn
+catboost
+matplotlib
+joblib
+openpyxl
+xlrd
+jupyter
